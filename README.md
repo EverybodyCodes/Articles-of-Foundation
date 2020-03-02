@@ -5,7 +5,7 @@ _(amended as of 3.2.2020)_
 
 - The object for which it is formed is:
 
-    - To assist in developing and increasing the knowledge of coding and software engineering for ___EVERY___ citizen of Earth with __no__ exceptions.
+    - To assist in developing and increasing the knowledge of coding and software engineering for ___EVERY___ citizen of Earth with no exceptions.
     
     - To hold live workshops and events related to coding.
     
